@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hasura-client/static/css/main.163ff86d.chunk.css",
-    "main.js": "/hasura-client/static/js/main.697a64a2.chunk.js",
-    "main.js.map": "/hasura-client/static/js/main.697a64a2.chunk.js.map",
+    "main.js": "/hasura-client/static/js/main.94a04e94.chunk.js",
+    "main.js.map": "/hasura-client/static/js/main.94a04e94.chunk.js.map",
     "runtime-main.js": "/hasura-client/static/js/runtime-main.aabf200d.js",
     "runtime-main.js.map": "/hasura-client/static/js/runtime-main.aabf200d.js.map",
     "static/js/2.73a513f9.chunk.js": "/hasura-client/static/js/2.73a513f9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.aabf200d.js",
     "static/js/2.73a513f9.chunk.js",
     "static/css/main.163ff86d.chunk.css",
-    "static/js/main.697a64a2.chunk.js"
+    "static/js/main.94a04e94.chunk.js"
   ]
 }
